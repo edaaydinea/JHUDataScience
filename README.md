@@ -1,55 +1,76 @@
-# Detailed README
+# Data Science Specialization
 
-## Specializations
+- **Where:** Coursera
+- **University/Institute:** Johns Hopkins University
+- **Status:** In Progress
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+## Courses in this Specialization
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Course 1: The Data Scientist’s Toolbox
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science>
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+2. Course 2: R Programming
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/r-programming?specialization=jhu-data-science>
+  
+3. Course 3: Getting and Cleaning Data
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science>
+
+4. Course 4: Exploratory Data Analysis
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science>
+
+5. Course 5: Reproducible Research
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/reproducible-research?specialization=jhu-data-science>
+
+6. Course 6: Statistical Inference
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/statistical-inference?specialization=jhu-data-science>
+  
+7. Course 7: Regression Models
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/regression-models?specialization=jhu-data-science>
+
+8. Course 8: Practical Machine Learning
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/practical-machine-learning?specialization=jhu-data-science>
+
+9. Course 9: Developing Data Products
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/data-products?specialization=jhu-data-science>
+
+10. Course 10: Data Science Capstone
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/data-science-project?specialization=jhu-data-science>
 
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Course 1: The Data Scientist’s Toolbox
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+- **Week1: Data Science Fundamentals**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/JHUDataScience/blob/main/L1/Week1/lecture_note.md>
 
-...
-
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
+- **Week2: R and RStudio**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/JHUDataScience/blob/main/L1/Week2/lecture_note.md>
+  
+- **Week3: Version Control and GitHub**
+  - **Status:** Completed
+  - **Note:** <https://github.com/edaaydinea/JHUDataScience/blob/main/L1/Week3/lecture_note.md>
+  
+- **Week4: R Markdown, Scientific Thinking, Big Data**
+  - **Status:** Not Started
+  - **Note:** <https://github.com/edaaydinea/JHUDataScience/blob/main/L1/Week4/lecture_note.md>
+  
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
-  - **Link:** [URL to certificate, if available]
+- **Course1: **
+  - **Link:** <>
