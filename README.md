@@ -79,4 +79,4 @@ Course 10: Data Science Capstone
 
 ## Certificates
 
-*   **Course 1: The Data Scientist’s Toolbox**
+*   [**Course 1: The Data Scientist’s Toolbox**](https://coursera.org/share/4bd0b1e79be2dfe623a4c134e12ee697)
